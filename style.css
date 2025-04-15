@@ -15,7 +15,7 @@
    display: flex;
    justify-content: center;
    align-items: center;
-   min-height: 500vh;
+   min-height: 400vh;
 }
  .container {
    position: relative;
@@ -78,7 +78,7 @@
    position: absolute;
    margin-top: 2rem;
    text-transform: uppercase;
-   font-weight: 500;
+   font-weight: 400;
    font-size: 4rem;
    left: -0.5rem;
    color: #ffffff;
