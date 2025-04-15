@@ -12,7 +12,7 @@
             animation-delay: -0.2s;
             transform: translate3d(8vw, 61vh, 5px);
             background: #464e9c;
-            border-radius: 400px;
+            border-radius: 100px;
         }
     
         @keyframes particle-animation-2 {
