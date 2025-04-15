@@ -12,7 +12,7 @@
             animation-delay: -0.2s;
             transform: translate3d(8vw, 61vh, 5px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-2 {
@@ -46,7 +46,7 @@
             animation-delay: -0.6s;
             transform: translate3d(54vw, 64vh, 1px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-4 {
@@ -63,7 +63,7 @@
             animation-delay: -0.8s;
             transform: translate3d(14vw, 74vh, 55px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-5 {
@@ -80,7 +80,7 @@
             animation-delay: -1s;
             transform: translate3d(19vw, 51vh, 70px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-6 {
@@ -97,7 +97,7 @@
             animation-delay: -1.2s;
             transform: translate3d(15vw, 80vh, 91px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-7 {
@@ -114,7 +114,7 @@
             animation-delay: -1.4s;
             transform: translate3d(57vw, 76vh, 13px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-8 {
@@ -131,7 +131,7 @@
             animation-delay: -1.6s;
             transform: translate3d(80vw, 15vh, 35px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-9 {
@@ -148,7 +148,7 @@
             animation-delay: -1.8s;
             transform: translate3d(79vw, 1vh, 36px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-10 {
@@ -165,7 +165,7 @@
             animation-delay: -2s;
             transform: translate3d(26vw, 85vh, 29px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-11 {
@@ -182,7 +182,7 @@
             animation-delay: -2.2s;
             transform: translate3d(62vw, 40vh, 67px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-12 {
@@ -199,7 +199,7 @@
             animation-delay: -2.4s;
             transform: translate3d(72vw, 11vh, 81px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-13 {
@@ -216,7 +216,7 @@
             animation-delay: -2.6s;
             transform: translate3d(22vw, 46vh, 82px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-14 {
@@ -233,7 +233,7 @@
             animation-delay: -2.8s;
             transform: translate3d(49vw, 11vh, 90px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-15 {
@@ -250,7 +250,7 @@
             animation-delay: -3s;
             transform: translate3d(37vw, 34vh, 50px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-16 {
@@ -267,7 +267,7 @@
             animation-delay: -3.2s;
             transform: translate3d(72vw, 41vh, 16px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-17 {
@@ -284,7 +284,7 @@
             animation-delay: -3.4s;
             transform: translate3d(90vw, 59vh, 68px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-18 {
@@ -301,7 +301,7 @@
             animation-delay: -3.6s;
             transform: translate3d(39vw, 6vh, 11px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-19 {
@@ -318,7 +318,7 @@
             animation-delay: -3.8s;
             transform: translate3d(54vw, 60vh, 98px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-20 {
@@ -335,7 +335,7 @@
             animation-delay: -4s;
             transform: translate3d(20vw, 28vh, 95px);
             background: #464e9c;
-            border-radius: 100px;
+            border-radius: 300px;
         }
     
         @keyframes particle-animation-21 {
